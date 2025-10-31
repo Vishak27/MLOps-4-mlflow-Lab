@@ -69,3 +69,5 @@ mlflow models serve --env-manager=local -m models:/housing_price_predictor/produ
 - **Models tab**: Check registered model in Production stage
 - **Metrics**: RMSE, MAE, R² scores for each run
 - **Parameters**: Hyperparameters used in each experiment
+
+(Note: This is a modification of the original lab from "ML with Ramim" where the work was on iris dataset - here the work is done on the wine dataset) 
